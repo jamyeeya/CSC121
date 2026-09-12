@@ -1,9 +1,24 @@
 # Refer to this module's read
 def main():
-    print("hello,world")
-    print("XYZ")
-    print("ABC") 
+    print("Hello, world!")
+    print("This is CS50P,")
 
-       
-main()
-       
+
+ main()
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+  
